@@ -63,7 +63,6 @@ public class StyleTextView extends View {
         mTextPaint = new TextPaint(Paint.ANTI_ALIAS_FLAG);
         mTextPaint.setTextSize(mTextSize);
         mTextPaint.setColor(mTextColor);
-        mTextPaint.setColor(mTextColor);
 // mFontMetrics = mTextPaint.getFontMetrics();
 
         mStrokePaint = new Paint();
